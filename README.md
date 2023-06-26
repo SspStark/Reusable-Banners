@@ -1,4 +1,4 @@
-##[Reusable Banners](https://sspbanners.ccbp.tech/)
+## [Reusable Banners](https://sspbanners.ccbp.tech/)
 
 In this project, let's build **Reusable Banners** by applying the concepts we have learned till now.
 
